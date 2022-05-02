@@ -1,2 +1,2 @@
 # PixelcyberBypassJailbreak
-Bypass Jailbreak Detection of Thor, Shu, Anubis 
+Bypass Jailbreak Detection for Thor, Shu, Anubis 
